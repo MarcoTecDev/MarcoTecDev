@@ -1,16 +1,25 @@
 # 💫 About Me:
-Hi there! 👋 I'm Marco, a passionate programmer and lifelong learner. I love building projects that others can use or enjoy, and experimenting with new technologies.  <br><br>📚 Right now, I'm self-studying Java, SQL, JavaScript, Python, and more to prepare for a higher education program this September, so I can start with a strong head start.<br><br>💻 Languages: Basic knowledge of HTML, CSS, JavaScript, and AI prompting.  <br>🌱 Currently learning: Java, SQL, advanced JavaScript, AI, and more.  <br>🚀 I enjoy creating and contributing to open-source projects, and sharing knowledge with colleagues, friends, and the community.  <br><br>Check out my repositories to see what I’m working on!
+👋 Hi! I'm Marco, a passionate developer, technology enthusiast, and lifelong learner focused on building useful, creative, and impactful software.<br><br>🎓 I'm currently studying **1st year of Web Application Development (DAW)**, where I'm strengthening my foundations in software development, databases, web technologies, and programming. Alongside my studies, I continuously explore new technologies and work on personal projects to expand my practical experience.<br><br>💻 **Technologies & Languages:** HTML, CSS, JavaScript, Java, SQL, Python, and AI prompting.<br><br>🌱 **Currently learning:** Java, SQL, advanced JavaScript, Python, Artificial Intelligence, and modern web development.<br><br>🚀 I enjoy creating personal and open-source projects, experimenting with new technologies, solving problems through code, and sharing knowledge with colleagues and the developer community.<br><br>📂 Feel free to explore my repositories and projects to see what I'm currently building and learning!<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sleep.marcoo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnimationMarco) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sleep.marcoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://es.linkedin.com/in/marco-carro-peyper-8211892a9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnimationMarco) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarcoTecDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarcoTecDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTecDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=MarcoTecDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MarcoTecDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarcoTecDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcotecdev)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarcoTecDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=MarcoTecDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcotecdev) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
