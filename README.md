@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Marco%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Application%20Developer%20in%20training%20·%20Spain%20🇪🇸&descAlignY=56&descSize=17" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Marco%20👋&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Web%20Application%20Developer%20in%20training%20·%20Spain%20🇪🇸&descAlignY=56&descSize=17" alt="Header" />
 </p>
 
 <!-- Typing animation -->
@@ -28,11 +28,11 @@
 
 ```js
 const marco = {
-  location:   "Spain 🇪🇸",
-  studying:   "Web Application Development (DAW) — 1st year 🎓",
-  learning:   ["Java", "SQL", "Advanced JavaScript", "Python", "AI"],
-  loves:      ["open source", "creative UI", "solving problems with code"],
-  motto:      "Not perfect. Just trying to be better.",
+  from:     "Spain 🇪🇸",
+  studying: "DAW · 1st year 🎓",
+  learning: ["Java", "SQL", "JS", "Python", "AI"],
+  loves:    ["open source", "creative UI"],
+  motto:    "Just trying to be better.",
 };
 ```
 
