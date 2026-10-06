@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/MarcoTecDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Not+perfect.+Just+trying+to+be+better.;1st+year+of+DAW+%F0%9F%8E%93;Java+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+Python;Learning+something+new+every+day+%F0%9F%8C%B1;Always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Not+perfect.+Just+trying+to+be+better.;1st+year+of+Web+Application+Development;Java+-+JavaScript+-+SQL+-+Python;Learning+something+new+every+day;Always+building+cool+stuff" alt="Typing SVG" />
   </a>
 </p>
 
