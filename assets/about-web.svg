@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250" role="img" aria-labelledby="title">
+  <title id="title">A website being built, block by block</title>
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.55" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="halo" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="soft" x="-50%" y="-80%" width="200%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+  <style>
+    .nav, .ttl, .img, .s1, .s2, .btn, .c1, .c2, .c3, .cur, .rip, .glow {
+      animation-duration: 8s;
+      animation-iteration-count: infinite;
+      animation-timing-function: cubic-bezier(.2, .7, .2, 1);
+    }
+    .ttl, .s1, .s2 { transform-box: fill-box; transform-origin: left center; }
+    .btn, .rip { transform-box: fill-box; transform-origin: center; }
+
+    .nav { animation-name: nav; }
+    .ttl { animation-name: ttl; }
+    .img { animation-name: img; }
+    .s1  { animation-name: s1; }
+    .s2  { animation-name: s2; }
+    .btn { animation-name: btn; }
+    .c1  { animation-name: c1; }
+    .c2  { animation-name: c2; }
+    .c3  { animation-name: c3; }
+    .cur { animation-name: cur; }
+    .rip { animation-name: rip; }
+    .glow { animation-name: glow; }
+
+    @keyframes nav { 0%, 5% { opacity: 0; transform: translateY(-6px); } 10.6%, 88% { opacity: 1; transform: translateY(0); } 95%, 100% { opacity: 0; transform: translateY(0); } }
+    @keyframes ttl { 0%, 11.25% { opacity: 0; transform: scaleX(0); } 16.9%, 88% { opacity: 1; transform: scaleX(1); } 95%, 100% { opacity: 0; transform: scaleX(1); } }
+    @keyframes img { 0%, 16.25% { opacity: 0; transform: translateY(8px); } 21.9%, 88% { opacity: 1; transform: translateY(0); } 95%, 100% { opacity: 0; transform: translateY(0); } }
+    @keyframes s1  { 0%, 18.75% { opacity: 0; transform: scaleX(0); } 24.4%, 88% { opacity: 1; transform: scaleX(1); } 95%, 100% { opacity: 0; transform: scaleX(1); } }
+    @keyframes s2  { 0%, 21.25% { opacity: 0; transform: scaleX(0); } 26.9%, 88% { opacity: 1; transform: scaleX(1); } 95%, 100% { opacity: 0; transform: scaleX(1); } }
+    @keyframes btn {
+      0%, 27.5% { opacity: 0; transform: scale(.5); }
+      31% { opacity: 1; transform: scale(1.06); }
+      33.1%, 58% { opacity: 1; transform: scale(1); }
+      59.5% { opacity: 1; transform: scale(.92); }
+      61.5%, 88% { opacity: 1; transform: scale(1); }
+      95%, 100% { opacity: 0; transform: scale(1); }
+    }
+    @keyframes c1 { 0%, 35% { opacity: 0; transform: translateY(10px); } 40.6%, 88% { opacity: 1; transform: translateY(0); } 95%, 100% { opacity: 0; transform: translateY(0); } }
+    @keyframes c2 { 0%, 38.75% { opacity: 0; transform: translateY(10px); } 44.4%, 88% { opacity: 1; transform: translateY(0); } 95%, 100% { opacity: 0; transform: translateY(0); } }
+    @keyframes c3 { 0%, 42.5% { opacity: 0; transform: translateY(10px); } 48.1%, 88% { opacity: 1; transform: translateY(0); } 95%, 100% { opacity: 0; transform: translateY(0); } }
+    @keyframes cur {
+      0%, 47% { opacity: 0; transform: translate(296px, 198px) scale(1); }
+      50% { opacity: 1; transform: translate(296px, 198px) scale(1); }
+      57% { opacity: 1; transform: translate(64px, 147px) scale(1); }
+      59% { opacity: 1; transform: translate(64px, 147px) scale(.82); }
+      61%, 88% { opacity: 1; transform: translate(64px, 147px) scale(1); }
+      95%, 100% { opacity: 0; transform: translate(64px, 147px) scale(1); }
+    }
+    @keyframes rip { 0%, 58% { opacity: 0; transform: scale(.3); } 59% { opacity: .9; transform: scale(.3); } 67%, 100% { opacity: 0; transform: scale(1.7); } }
+    @keyframes glow { 0%, 59% { opacity: 0; } 63%, 86% { opacity: .75; } 94%, 100% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .nav, .ttl, .img, .s1, .s2, .btn, .c1, .c2, .c3, .cur, .rip, .glow { animation: none; }
+    }
+  </style>
+
+  <!-- halo -->
+  <ellipse cx="180" cy="135" rx="150" ry="88" fill="#38bdf8" opacity="0.14" filter="url(#halo)"/>
+
+  <!-- browser window -->
+  <rect x="10" y="12" width="340" height="226" rx="14" fill="url(#win)"/>
+  <path d="M10 26 A14 14 0 0 1 24 12 H336 A14 14 0 0 1 350 26 V40 H10 Z" fill="#ffffff" fill-opacity="0.05"/>
+  <line x1="10" y1="40" x2="350" y2="40" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="10.5" y="12.5" width="339" height="225" rx="13.5" fill="none" stroke="#38bdf8" stroke-opacity="0.35"/>
+  <circle cx="29" cy="26" r="4.5" fill="#ff5f57"/>
+  <circle cx="44" cy="26" r="4.5" fill="#febc2e"/>
+  <circle cx="59" cy="26" r="4.5" fill="#28c840"/>
+  <rect x="96" y="19" width="168" height="14" rx="7" fill="#ffffff" fill-opacity="0.07"/>
+  <circle cx="106" cy="26" r="2.6" fill="#38bdf8" fill-opacity="0.8"/>
+  <rect x="114" y="24" width="70" height="4" rx="2" fill="#ffffff" fill-opacity="0.22"/>
+
+  <!-- navbar -->
+  <g class="nav">
+    <circle cx="32" cy="58" r="7" fill="url(#accent)"/>
+    <rect x="44" y="55" width="40" height="6" rx="3" fill="#ffffff" fill-opacity="0.35"/>
+    <rect x="246" y="55" width="22" height="6" rx="3" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="276" y="55" width="22" height="6" rx="3" fill="#ffffff" fill-opacity="0.22"/>
+    <rect x="306" y="55" width="28" height="6" rx="3" fill="#38bdf8" fill-opacity="0.6"/>
+  </g>
+
+  <!-- hero text -->
+  <rect class="ttl" x="26" y="82" width="168" height="14" rx="7" fill="url(#accent)"/>
+  <rect class="s1" x="26" y="104" width="150" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.3"/>
+  <rect class="s2" x="26" y="117" width="118" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.18"/>
+
+  <!-- hero button -->
+  <rect class="glow" x="26" y="136" width="76" height="22" rx="11" fill="#38bdf8" filter="url(#soft)" opacity="0"/>
+  <g class="btn">
+    <rect x="26" y="136" width="76" height="22" rx="11" fill="#38bdf8"/>
+    <rect x="42" y="145" width="44" height="4" rx="2" fill="#0f2027" fill-opacity="0.75"/>
+  </g>
+  <circle class="rip" cx="64" cy="147" r="16" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0"/>
+
+  <!-- hero image -->
+  <g class="img">
+    <rect x="214" y="76" width="120" height="84" rx="10" fill="#38bdf8" fill-opacity="0.1" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <circle cx="306" cy="98" r="8" fill="#febc2e" fill-opacity="0.85"/>
+    <path d="M222 152 L252 120 L272 140 L289 124 L326 152 Z" fill="#38bdf8" fill-opacity="0.5"/>
+  </g>
+
+  <!-- cards -->
+  <g class="c1">
+    <rect x="26" y="174" width="94" height="50" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="40" cy="189" r="6" fill="#38bdf8"/>
+    <rect x="52" y="186" width="54" height="6" rx="3" fill="#ffffff" fill-opacity="0.32"/>
+    <rect x="36" y="203" width="74" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+    <rect x="36" y="211" width="52" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+  </g>
+  <g class="c2">
+    <rect x="133" y="174" width="94" height="50" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="147" cy="189" r="6" fill="#a78bfa"/>
+    <rect x="159" y="186" width="54" height="6" rx="3" fill="#ffffff" fill-opacity="0.32"/>
+    <rect x="143" y="203" width="74" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+    <rect x="143" y="211" width="52" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+  </g>
+  <g class="c3">
+    <rect x="240" y="174" width="94" height="50" rx="8" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="254" cy="189" r="6" fill="#34d399"/>
+    <rect x="266" y="186" width="54" height="6" rx="3" fill="#ffffff" fill-opacity="0.32"/>
+    <rect x="250" y="203" width="74" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+    <rect x="250" y="211" width="52" height="4" rx="2" fill="#ffffff" fill-opacity="0.16"/>
+  </g>
+
+  <!-- cursor -->
+  <g class="cur" opacity="0">
+    <path d="M0 0 L0 17 L4.6 12.8 L7.6 19.6 L10.6 18.3 L7.7 11.6 L13.6 11.6 Z" fill="#ffffff" stroke="#0f2027" stroke-width="1.2" stroke-linejoin="round"/>
+  </g>
+</svg>

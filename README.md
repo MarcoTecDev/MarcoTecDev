@@ -12,10 +12,9 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/marco-carro-peyper-8211892a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/AnimationMarco"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/sleep.marcoo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://buymeacoffee.com/marcotecdev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+  <a href="https://www.linkedin.com/in/marco-carro-peyper-8211892a9"><img src="https://raw.githubusercontent.com/MarcoTecDev/MarcoTecDev/main/assets/social-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://x.com/AnimationMarco"><img src="https://raw.githubusercontent.com/MarcoTecDev/MarcoTecDev/main/assets/social-x.svg" alt="X" /></a>
+  <a href="https://www.instagram.com/sleep.marcoo"><img src="https://raw.githubusercontent.com/MarcoTecDev/MarcoTecDev/main/assets/social-instagram.svg" alt="Instagram" /></a>
 </p>
 
 <p align="center">
@@ -26,19 +25,17 @@
 
 ## 💫 About me
 
-```js
-const marco = {
-  from:     "Spain 🇪🇸",
-  studying: "DAW · 1st year 🎓",
-  learning: ["Java", "SQL", "JS", "Python", "AI"],
-  loves:    ["open source", "creative UI"],
-  motto:    "Just trying to be better.",
-};
-```
+<img align="right" width="42%" src="https://raw.githubusercontent.com/MarcoTecDev/MarcoTecDev/main/assets/about-web.svg" alt="Animated illustration of a website being built block by block" />
 
-- 🚀 I enjoy building **personal & open-source projects** and experimenting with new tech.
-- 🤝 I like sharing what I learn with classmates and the dev community.
-- 📂 Have a look around my repositories to see what I'm working on right now!
+I'm a passionate developer, technology enthusiast and lifelong learner focused on building **useful, creative and impactful software**.
+
+- 🎓 Studying the **1st year of Web Application Development (DAW)**
+- 🌱 Learning **Java, SQL, advanced JavaScript, Python** and **AI**
+- 🚀 Creating **personal & open-source projects** to learn by doing
+- 🤝 Sharing what I learn with classmates and the dev community
+- 📂 Explore my repos to see what I'm building right now!
+
+<br clear="right" />
 
 ---
 
@@ -53,22 +50,6 @@ const marco = {
   <b>Tools</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,bash,powershell,md,windows&perline=8" alt="Tools" />
 </p>
-
----
-
-## 📌 Featured project
-
-<table align="center">
-  <tr>
-    <td width="560">
-      <h3>🃏 <a href="https://github.com/MarcoTecDev/OverlayCards">OverlayCards</a></h3>
-      <p>Interactive hover cards built with <b>pure HTML &amp; CSS</b> (no JavaScript): a 3D perspective tilt, a gradient fade and a hidden image that pops out on hover.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="GPL-3.0" />
-    </td>
-  </tr>
-</table>
 
 ---
 
