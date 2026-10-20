@@ -17,10 +17,6 @@
   <a href="https://www.instagram.com/sleep.marcoo"><img src="https://raw.githubusercontent.com/MarcoTecDev/MarcoTecDev/main/assets/social-instagram.svg" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcoTecDev&style=flat-square&color=38bdf8&label=profile+views" alt="Profile views" />
-</p>
-
 ---
 
 ## 💫 About me
