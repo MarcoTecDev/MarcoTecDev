@@ -19,6 +19,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Con un token personal (secreto SNAKE_TOKEN) también cuenta las contribuciones privadas
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
